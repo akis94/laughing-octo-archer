@@ -2,3 +2,7 @@
   margin: 0px;
   padding: 0px;
 }
+@font-face{
+  font-family: Original;
+  src: url(fonts/Original.ttf);
+}
